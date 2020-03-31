@@ -1,0 +1,301 @@
+/******************************************** RESPONSIVE STYLES*****************************************/
+/*------------------------------------------------------------------------------------------------------*
+/*******************************************  Author: Dynasty3 *****************************************/
+/**********************************  URL: http://www.dynasty3.co.uk ************************************/
+/*-----------------------------------------------------------------------------------------------------*/
+
+/* ---------- MAX 1500PX ---------- */
+@media only screen and (max-width:1500px) {
+	
+}
+
+/* ---------- MAX 1280PX ---------- */
+@media only screen and (max-width:1280px) {
+
+}
+
+/* ---------- MAX 1199PX ---------- */
+@media only screen and (max-width:1199px) {
+
+
+}
+
+
+/* ---------- MAX 1112PX ---------- */
+@media screen and (max-width:1112px) {
+
+}
+	
+/* ---------- MAX 1080PX ---------- */
+@media screen and (max-width:1080px) {
+
+}
+
+
+
+/* ---------- MAX 1024PX ---------- */
+@media screen and (max-width:1024px) {
+
+
+}
+
+/* ---------- MAX 991PX ---------- */
+@media only screen and (max-width:991px) {
+
+}
+
+
+
+/* ---------- MAX 800PX ---------- */
+@media only screen and (max-width:800px) {
+	
+
+}
+
+
+
+
+/* ---------- MAX 768PX ---------- */
+@media only screen and (max-width:768px) {
+
+}
+
+
+
+/* ---------- MAX 767PX ---------- */
+@media only screen and (max-width:767px) {
+
+}
+
+
+
+/* ---------- MAX 640PX ---------- */
+@media screen and (max-width:640px) {
+
+}
+
+/* ---------- MAX 480PX ---------- */
+@media screen and (max-width:480px) {
+
+
+}
+
+
+/* ---------- MAX 360PX ---------- */
+@media screen and (max-width:360px) {
+
+}
+
+
+/* ---------- MAX 320PX ---------- */
+@media only screen and (max-width:320px) {
+.top-header-right ul {
+    text-align: center;
+    padding-right: 5%;
+}
+.top-header-left ul {
+    padding-left: 5%;
+    text-align: center;
+    margin-bottom: 10px;
+}
+.main-menu {
+    padding:0px;
+    margin-top: -63px;
+}
+.logo-area {
+    padding-left: 5%;
+}
+.dnt3-menu{
+	width:100%;
+	}
+.dnt3-menu ul.dropdown {
+    background: #004870;
+}
+.dnt3-menu ul.dropdown a.active {
+    color: #FFFFFF;
+}
+.dnt3-menu ul.dropdown li a {
+    color: #FFFFFF;
+}
+.dnt3-menu ul.dropdown ul {
+   padding: 0px 25px 22px 10px;
+       margin-top: -17px;
+}
+ul.dropdown li {
+    border-bottom: 1px solid #093D71;
+}
+.dnt3-menu ul.dropdown ul:before{
+	display:none;
+	}
+ul.dropdown a{
+    padding: 3px 0px;
+	padding-left:25px;
+}
+.dnt3-menu ul.dropdown ul li a {
+    margin-top: 9px;
+}
+ul.dropdown li.sub > a:after, ul.dropdown li.sub > a.current:after {
+    font-size:25px;
+    padding: 5px 10px;
+}
+.banner_link{
+	display:none;
+	}
+.carousel-caption {
+    padding-bottom:3px;
+	left:0%;
+}
+.carousel-caption h2 {
+    font-size: 14px;
+    font-weight:400;
+    line-height: 22px;
+    text-align: center;
+}
+.carousel-caption p {
+    font-size: 12px;
+    font-weight: 300;
+    margin-top: 0px;
+    line-height: 12px;
+    padding-right:0%; 
+	text-align: center;
+}
+.bx-wrapper .bx-pager, .bx-wrapper .bx-controls-auto{
+	display:none;
+	}
+section.banner-bottom {
+    padding: 35px 0px 30px 0px;
+}
+.banner-bottom-single {
+    padding: 0px;
+	margin-bottom: 20px;
+}
+.banner-bottom-img i.fa-eur {
+    font-size: 45px;
+}
+.banner-bottom-img a.link1 {
+    border: 2px solid #fff;
+    width: 100px;
+    height: 100px;
+    padding: 27px 15px 0px 10px;
+}
+.banner-bottom-title h3 {
+    font-size: 20px;
+    font-weight: 400;
+    margin-bottom: 0px;
+    margin-top: 16px;
+}
+.banner-bottom-content p {
+    font-size: 14px;
+}
+.banner-bottom-img i.fa-lightbulb-o{
+	font-size: 45px;
+	}
+.banner-bottom-img a.link2 {
+    border: 2px solid #fff;
+    width: 100px;
+    height: 100px;
+    padding: 27px 15px 0px 18px;
+}
+.banner-bottom-img i.fa-check-square-o {
+    font-size: 45px;
+}
+.banner-bottom-img a.link3 {
+    border: 2px solid #fff;
+    width: 100px;
+    height: 100px;
+    padding: 27px 15px 0px 23px;
+}
+.section-heading-bottom h2 {
+    font-weight: 600;
+    font-size: 20px;
+    color: #5a5a5a;
+    margin-top: 5px;
+}
+.bot-50 {
+    margin-bottom: 0px;
+}
+.section-heading-bottom-white h2 {
+    font-weight: 600;
+    font-size: 20px;
+    margin-top: 5px;
+}
+.why-area-img i.fa-share {
+    font-size: 40px;
+}
+.why-area-single {
+    padding-top: 0px;
+    padding-bottom: 20px;
+}
+.why-area-img i.fa-dropbox {
+    font-size: 40px;
+}
+why-area-img i.fa-bolt {
+    font-size: 40px;
+}
+section.why-area {
+    padding-bottom: 5px;
+}
+.why-area-content p {
+    padding: 0px 0px;
+}
+.bot-60 {
+    margin-bottom: 10px;
+}
+.what-area-content p {
+    padding: 0px 0px;
+}
+.what-area-single {
+    min-height: auto;
+}
+.event-area-single {
+    margin-bottom: 20px;
+}
+section.event-area {
+    padding-bottom: 25px;
+}
+.bot-40 {
+    margin-bottom: 10px;
+}
+.team-area-single {
+    min-height: auto;
+	margin-bottom: 20px;
+}
+section.blog-area {
+    padding-bottom: 20px;
+}
+.blog-area-single {
+    margin-bottom: 20px;
+}
+footer {
+    padding-top: 22px;
+    padding-bottom: 15px;
+}
+.dnt3-menu ul.dropdown ul {
+    background: #1370B8 !important;
+}
+.dnt3-menu ul.dropdown ul li a {
+    border-bottom:0px solid #fff; 
+}
+.single-list {
+    margin-bottom: 20px;
+}
+hr {
+    margin-top:0px;
+    margin-bottom: 12px;
+}
+.single-list-title hr {
+    margin-top: 0px;
+}
+.single-list-content {
+    margin-top: 0px;
+}
+
+
+
+
+
+
+
+
+
+}
